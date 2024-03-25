@@ -1,0 +1,212 @@
+.nav-container {
+    padding: 6px;
+    display: flex;
+    justify-content: flex-end; /*içerik enn sağda*/
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+}
+.nav-items{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav-items > div {
+    margin-right: 10px;
+}
+.divb{
+    padding:4px;
+    display: flex;
+    width: 40px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+}
+.roundimg{
+    border-radius: 100%;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    text-decoration: underline;
+}
+.maincontainer{
+    text-align: center;
+}
+.searchbouton{
+    flex-shrink:0;
+    box-sizing:border-box;
+    max-height: 160px;
+    padding: 20px;
+}
+.search-area-border{
+    width:640px;
+    margin: 0 auto;
+    width:auto;
+    max-width:584px;
+    padding-top:6px;
+    position:relative;
+}
+.search-area{
+    display:flex;
+    z-index:3;
+    position:relative;
+    min-height: 44px;
+    padding: 0px;
+    background:#fff;
+    border:1px solid #dfe1e5;
+    box-shadow:none;
+    border-radius:24px;
+    margin:0 auto;
+    width:638px;
+    max-width:584px;
+}
+.search-area:hover {
+    background:#fff;
+    box-shadow:0 1px 6px rgba(32,33,36,.28);border-color:transparent;
+}
+.search{
+    flex:1;
+    display:flex;
+    padding-top: 2px;
+    padding-right: 8px;
+    padding-bottom: 0px;
+    padding-left: 14px;
+
+}
+.search-logo{
+    display: flex;
+    align-items: center;
+    padding-right: 13px;
+    margin-top: -3px;
+}
+.search-logo span {
+    color: #9aa0a6;
+    height: 20px;
+    width: 20px;
+    margin-top: 0px;
+    display: inline-block;
+    fill: currentColor;
+    line-height: 24px;
+    position: relative;
+}
+.input-enter{
+    display:flex;
+    flex-wrap:wrap;
+    flex:1;
+    margin-top:6px;
+}
+.input-area {
+    color: transparent;
+    flex: 100%;
+    white-space: pre;
+    font: 16px arial, sans-serif;
+    line-height: 34px;
+    height: 34px !important;
+    display: block;
+    position: absolute;
+}
+.input {
+    margin: 0;
+    padding: 0;
+    color: rgba(0, 0, 0, 0.87);
+    word-wrap: break-word;
+    outline: none;
+    border: none;
+    display: flex;
+    flex: 100%;
+    margin-top: -68px;
+    font: 16px arial, sans-serif;
+    line-height: 34px;
+    height: 34px !important;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    text-align: start;
+    appearance: textfield;
+    cursor: text;
+}
+.input:focus {
+    outline: none;
+    border-color: #4d90fe; 
+}
+.buttons{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.googlesearch,
+.feelinglucky {
+  margin: 11px 24px 0px 0px;
+  padding: 0 16px;
+  line-height: 36px;
+  min-width: 100px;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+  border: 0px solid #f2f2f2; 
+  border-radius: 3px; 
+  background-color: #fff;
+  font-family: Arial, sans-serif; 
+  font-size: 14px; 
+  color: #3f4141;
+  background-color: #f8f9fa;
+}
+.googlesearch:hover,
+.feelinglucky:hover {
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    background-image: -webkit-linear-gradient(top, #f8f8f8, #f1f1f1);
+    background-color: #f2f2f2;
+    border:1px solid #dadce0;
+    color:#202124;
+}
+.googlesearch:focus, 
+.feelinglucky:focus{
+    border:1px solid #4285f4;
+    outline:none;
+}
+/*  */
+.footer {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #dfe1e5;
+    border-top: 1px solid #dadce0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: -8px;
+    line-height: 10px;
+    background-color: #f2f2f2;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif; 
+
+}  
+.footerli {
+    float: left;
+    list-style-type: none;
+
+} 
+.footerli a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    color: #1f1f1f;
+    margin-left: 12px;
+    margin-right: -20px;
+}
+  
+.footerli a:hover {
+    text-decoration: underline;
+}
+
+    
