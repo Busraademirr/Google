@@ -18,7 +18,7 @@ Google anasayfası incelendi ve benzeri görsel olarak clonlanmaya çalışıld�
 Original Google image:
 ![Google](assets/googleorj.png)
 My clone image:
-![Home clone]((assets/mycode.png)
+![Home clone](assets/mycode.png)
 
 ---
 ---
