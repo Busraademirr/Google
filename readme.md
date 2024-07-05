@@ -1,5 +1,5 @@
 # GOOGLE CLONE
-## Live Link: 
+## Live Link: https://main--calm-souffle-1b8f6d.netlify.app/
 
 Google anasayfası incelendi ve benzeri görsel olarak clonlanmaya çalışıldı.
 
@@ -23,7 +23,7 @@ My clone image:
 ---
 ---
 # GOOGLE KLONU
-## Canlı bağlantı: https://main--admirable-crostata-462e5a.netlify.app/
+## Canlı bağlantı: https://main--calm-souffle-1b8f6d.netlify.app/
 Google anasayfası incelendi ve benzeri görsel olarak klonlandı.
 
 ---
