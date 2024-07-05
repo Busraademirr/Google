@@ -1,9 +1,38 @@
-# Google anasayfa tasarımı
-Google inpect özelliği ile google anasayfası incelendi ve benzeri tasarlanmaya çalışıldı.
-Eski google sayfasına ait verilen koddan yardım alındı ve üzerine bazı güncellemeler yapıldı.
+# GOOGLE CLONE
+## Live Link: 
 
-Kendi browserımda bulunan google sayfasını ve kendi tasarladığım google sayfasının ekran görüntüsü;
+Google anasayfası incelendi ve benzeri görsel olarak clonlanmaya çalışıldı.
 
-![Google orjinal sayfası](assets/googleorj.png)
+---
+### Technologies
+- HTML
+- CSS
+---
+### Project Design
+- The project design is inspired by the Google homepage.
+- In the header section there are gmail, images, google applications and user profile photo.
+- In the main section, there is the Google logo, search area and 2 buttons.
+- There are 7 sections in the footer section.
+---
+### Images
+Original Google image:
+![Google](assets/googleorj.png)
+My clone image:
+![Home clone](/public/prtcs.png)
 
-![Google orjinal sayfası](assets/mycode.png)
+---
+---
+# GOOGLE KLONU
+## Canlı bağlantı: https://main--admirable-crostata-462e5a.netlify.app/
+Google anasayfası incelendi ve benzeri görsel olarak klonlandı.
+
+---
+### Teknolojiler
+- HTML
+- CSS
+---
+### Proje Tasarımı
+- Proje tasarımı Google anasayfasından bakılarak tasarlanmıştır.
+- Header kısmında gmail, images, google uygulamaları ve kullanıcı profil fotoğrafı bulunmaktadır.
+- Ana bölümde google logosu, search alanı ve 2 adet buton bulunmaktadır.
+- Footer kısmında ise 7 bölüm bulunmaktadır.
